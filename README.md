@@ -5,6 +5,7 @@ Go Yao Xiang 163130 <br>
 Choong Yew Chung 163991 <br>
 
 # The Manor - a text-based mysterious horror game
+![](../the-manor/images/title.png)
 Game Description: <br>
 
 You are a private investigative journalist, one day you received an anonymous e-mail from someone asking you to investigate an old private abandoned manor owned by a tycoon back in the 1800s with a dark and sinister past. It was whispered that the manor was a hub for illicit activities, crimes and the secret gatherings of a clandestine cult. Rumor had it that the tycoon had met a gruesome end at the hands of his own wife, who had discovered his infidelity. In her despair, she had taken her own life along with her innocent sons, casting an everlasting shadow over the estate. <br>
