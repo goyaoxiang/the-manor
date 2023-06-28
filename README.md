@@ -74,3 +74,8 @@ In our game, we have implemented a singly linked list called `Action` that store
 
 **CIRCULARLY LINKED LIST** <br>
 In this game, linked lists called `Inventory` are used to store the items that the player has picked up and placed in the inventory. For the inventory, we have implemented a circular linked list in order for the last item to traverse back to the first item. If the player obtains an item, we will append the item into our inventory, also we have a function called _`searchItem()`_ to traverse through all the nodes and check if that specific item is in our inventory or not and return the value. The items in the inventory will also be saved into the database(.txt) file with the _`writeInventory()`_ function that traverses through all the nodes in our inventory and write into the database. This linked list play the role to store the items in order to enable the function to determine whether the player have access to certain problems in the game, this linked list also enable us to read and restore the inventory list when reloading a game from database. 
+
+# Screenshots of the game
+
+![jjjj]((https://github.com/goyaoxiang/the-manor/blob/08fee52db8e512b5ff026dd25b8ff52bacc633cc/images/Main%20menu.png)https://github.com/goyaoxiang/the-manor/blob/08fee52db8e512b5ff026dd25b8ff52bacc633cc/images/Main%20menu.png)
+
