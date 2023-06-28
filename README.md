@@ -14,8 +14,9 @@ You are a private investigative journalist, one day you received an anonymous e-
 
 The anonymous sender promised you something extraordinary - an unimaginable sum of money that would be wired to you if you took up the challenge of investigating the forsaken manor.<br>
 
-Tempted by greed, and having financial struggles at that time. You decided to take the offer to investigate the manor and unravel the mysteries surrounding the abandoned estate, to shine a light on the dark secrets that lay hidden within its decaying walls. Little do you know what lies on the other side of the wall.
+Tempted by greed, and having financial struggles at that time. You decided to take the offer to investigate the manor and unravel the mysteries surrounding the abandoned estate, to shine a light on the dark secrets that lay hidden within its decaying walls. Little do you know what lies on the other side of the wall. <br>
 
+### [Gameplay demo](https://drive.google.com/drive/folders/1xyLZmu3lMLUVCf38AXoNNMTWm4XG5m1N?usp=sharing) <--- Click here.
 # Features
 **MAP DESCRIPTION** <br>
 At the start of the game, the player will be spawn in the LIVING ROOM of the manor. In each area of the map, the programme will prompt out a description which can lead the player to imagine the room and find the clues to do the next moves. 
@@ -131,4 +132,4 @@ If successfully save, it will prompt out a message and return the player back to
 ![Game end](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Game%20end.png) <br>
 <br>A congratulatory message will be prompt out, when the player succeeds in overcoming all the obstacles and escaping the manor. <br>
 
-## [Gameplay demo](https://drive.google.com/drive/folders/1xyLZmu3lMLUVCf38AXoNNMTWm4XG5m1N?usp=sharing) <--- Click here.
+
