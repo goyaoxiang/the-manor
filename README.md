@@ -131,4 +131,4 @@ If successfully save, it will prompt out a message and return the player back to
 ![Game end](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Game%20end.png) <br>
 <br>A congratulatory message will be prompt out, when the player succeeds in overcoming all the obstacles and escaping the manor. <br>
 
-
+# Gameplay demo
