@@ -77,5 +77,58 @@ In this game, linked lists called `Inventory` are used to store the items that t
 
 # Screenshots of the game
 
-![jjjj]((https://github.com/goyaoxiang/the-manor/blob/08fee52db8e512b5ff026dd25b8ff52bacc633cc/images/Main%20menu.png)https://github.com/goyaoxiang/the-manor/blob/08fee52db8e512b5ff026dd25b8ff52bacc633cc/images/Main%20menu.png)
+![Main menu](https://github.com/goyaoxiang/the-manor/blob/08fee52db8e512b5ff026dd25b8ff52bacc633cc/images/Main%20menu.png) <br>
+This is the `menu` for the player to either start a game, to load the game from the database or to quit the game.<br>
+
+#### Descriptive message for each area or rooms
+![Living room](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Living%20Room.png) 
+![Second Floor](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Second%20floor.png) <br>
+Some examples of desciption of the room or area the player is currently in. <br>
+
+#### Input 
+![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/wrong%20input.png) <br>
+Players must type in **UPPERCASE** letters in order to progress in the game. <br>
+
+#### Hints
+![](https://github.com/goyaoxiang/the-manor/blob/7d6802cbc5363c492998e9b5a58d50b78b132b63/images/note.png) <br>
+![](https://github.com/goyaoxiang/the-manor/blob/7d6802cbc5363c492998e9b5a58d50b78b132b63/images/hint.png) <br>
+There are various hints and clues which helps in contributing to the player’s game progress.
+Here are some examples.
+
+#### Items
+![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/obtain%20item.png) <br>
+If the player inputs the correct command, player will get the item that is intended to get. <br>
+
+![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/check%20item.png) <br>
+If you have the item in your inventory, it will display a confirmation message notifying you have got the item. <br>
+
+#### Inventory
+![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/check%20inventory.png) <br>
+Checking of item in your inventory after you have obtain the item. <br>
+
+![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/check%20inventory%202.png) <br>
+Example of displaying all the items that you have obtained in the game by typing “INVENTORY” <br>
+
+#### Sanity
+![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/wrong%20input%202.png) <br>
+When the sanity percentage is less than a specific range, it will keep on displaying a message to notify the player from time to time. <br>
+
+![Game over](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Game%20Over%20prompt.png)<br>
+When sanity percentage reaches 0%, a game over message will be prompt out, indicating the player has lost the game. <br>
+
+#### Save & Load Game
+![Save](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Save%20game.png) <br>
+Players has to save their progress in a specific area in the game which is in the “LIVING ROOM”.<br>
+If successfully save, it will prompt out a message and return the player back to the main menu. <br>
+
+![IncorrectSave](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/incorrect%20save.png) <br>
+If the player try to save it’s progress in another place it will prompt a message telling the player that his action is invalid and can’t be done. <br>
+
+![Load](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Load%20game.png) <br>
+When the player wants to continue its progress, the player can just type “LOAD” in the main menu. <br>
+
+#### Game End
+![Game end](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Game%20end.png)
+A congratulatory message will prompt out, when the player succeeds in overcoming all the obstacles and escaping the manor. <br>
+
 
