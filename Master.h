@@ -62,7 +62,7 @@ void Master::lockedMaster(){
 	cout<<"\n--------------------------------------------------------------------------------------\n";
 	cout<<"Current location: LIVING ROOM\n\n";
 	cout<<"You stood before the imposing entrance to what appeared to be the master\n"; 
-	cout<<"bedroom. You tried to open the door. Klick-klick, the door couldn’t be open. You try to\n"; 
+	cout<<"bedroom. You tried to open the door. Klick-klick, the door couldn\'t be open. You try to\n"; 
 	cout<<"force your way in, but there’s no effect. Seems like you are required to have a KEY\n"; 
 	cout<<"to unlock the door.\n";
 	cout<<"\n--------------------------------------------------------------------------------------\n";
