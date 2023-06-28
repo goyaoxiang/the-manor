@@ -100,35 +100,35 @@ Here are some examples.
 If the player inputs the correct command, player will get the item that is intended to get. <br>
 
 ![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/check%20item.png) <br>
-If you have the item in your inventory, it will display a confirmation message notifying you have got the item. <br>
+<br>If you have the item in your inventory, it will display a confirmation message notifying you have got the item. <br>
 
 #### Inventory
 ![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/check%20inventory.png) <br>
-Checking of item in your inventory after you have obtain the item. <br>
+<br>Checking of item in your inventory after you have obtain the item. <br>
 
 ![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/check%20inventory%202.png) <br>
-Example of displaying all the items that you have obtained in the game by typing “INVENTORY” <br>
+<br>Example of displaying all the items that you have obtained in the game by typing “INVENTORY” <br>
 
 #### Sanity
 ![](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/wrong%20input%202.png) <br>
-When the sanity percentage is less than a specific range, it will keep on displaying a message to notify the player from time to time. <br>
+<br>When the sanity percentage is less than a specific range, it will keep on displaying a message to notify the player from time to time. <br>
 
 ![Game over](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Game%20Over%20prompt.png)<br>
-When sanity percentage reaches 0%, a game over message will be prompt out, indicating the player has lost the game. <br>
+<br>When sanity percentage reaches 0%, a game over message will be prompt out, indicating the player has lost the game. <br>
 
 #### Save & Load Game
 ![Save](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Save%20game.png) <br>
-Players has to save their progress in a specific area in the game which is in the “LIVING ROOM”.<br>
+<br>Players has to save their progress in a specific area in the game which is in the “LIVING ROOM”.<br>
 If successfully save, it will prompt out a message and return the player back to the main menu. <br>
 
 ![IncorrectSave](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/incorrect%20save.png) <br>
-If the player try to save it’s progress in another place it will prompt a message telling the player that his action is invalid and can’t be done. <br>
+<br>If the player try to save it’s progress in another place it will prompt a message telling the player that his action is invalid and can’t be done. <br>
 
 ![Load](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Load%20game.png) <br>
-When the player wants to continue its progress, the player can just type “LOAD” in the main menu. <br>
+<br>When the player wants to continue its progress, the player can just type “LOAD” in the main menu and continue its progress with its obtained items and sanity percentage loaded into the game.<br>
 
 #### Game End
-![Game end](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Game%20end.png)
-A congratulatory message will prompt out, when the player succeeds in overcoming all the obstacles and escaping the manor. <br>
+![Game end](https://github.com/goyaoxiang/the-manor/blob/67425e7ae859f98ad58e6a923be1f01175bb0e80/images/Game%20end.png) <br>
+<br>A congratulatory message will be prompt out, when the player succeeds in overcoming all the obstacles and escaping the manor. <br>
 
 
